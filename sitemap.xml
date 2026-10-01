@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://calldirectorai.github.io/sew-essentials-home/classes/</loc>
+    <lastmod>2026-10-01T03:05:58.457Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://calldirectorai.github.io/sew-essentials-home/</loc>
-    <lastmod>2026-10-01T03:02:10.731Z</lastmod>
+    <lastmod>2026-10-01T03:02:28.793Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
