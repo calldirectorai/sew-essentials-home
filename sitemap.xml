@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://calldirectorai.github.io/sew-essentials-home/workshops/</loc>
-    <lastmod>2026-10-01T13:28:35.312Z</lastmod>
+    <loc>https://calldirectorai.github.io/sew-essentials-home/</loc>
+    <lastmod>2026-10-02T04:26:37.922Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://calldirectorai.github.io/sew-essentials-home/schedule/</loc>
-    <lastmod>2026-10-01T13:28:28.809Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://calldirectorai.github.io/sew-essentials-home/faq/</loc>
-    <lastmod>2026-10-01T13:28:22.062Z</lastmod>
+    <lastmod>2026-10-02T04:26:29.663Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://calldirectorai.github.io/sew-essentials-home/contact/</loc>
-    <lastmod>2026-10-01T13:28:15.436Z</lastmod>
+    <lastmod>2026-10-02T04:26:29.440Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://calldirectorai.github.io/sew-essentials-home/classes/</loc>
-    <lastmod>2026-10-01T13:28:08.169Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://calldirectorai.github.io/sew-essentials-home/birthday-party/</loc>
-    <lastmod>2026-10-01T13:28:01.872Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://calldirectorai.github.io/sew-essentials-home/alterations/</loc>
-    <lastmod>2026-10-01T13:27:55.735Z</lastmod>
+    <loc>https://calldirectorai.github.io/sew-essentials-home/faq/</loc>
+    <lastmod>2026-10-02T04:26:29.283Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://calldirectorai.github.io/sew-essentials-home/about/</loc>
-    <lastmod>2026-10-01T13:27:49.334Z</lastmod>
+    <lastmod>2026-10-02T04:26:29.111Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://calldirectorai.github.io/sew-essentials-home/</loc>
-    <lastmod>2026-10-01T13:27:43.037Z</lastmod>
+    <loc>https://calldirectorai.github.io/sew-essentials-home/alterations/</loc>
+    <lastmod>2026-10-02T04:26:28.777Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://calldirectorai.github.io/sew-essentials-home/birthday-party/</loc>
+    <lastmod>2026-10-02T04:26:28.539Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://calldirectorai.github.io/sew-essentials-home/workshops/</loc>
+    <lastmod>2026-10-02T04:26:28.243Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://calldirectorai.github.io/sew-essentials-home/classes/</loc>
+    <lastmod>2026-10-02T04:26:27.756Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
