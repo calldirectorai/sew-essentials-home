@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://calldirectorai.github.io/sew-essentials-home/contact/</loc>
+    <lastmod>2026-10-02T05:26:16.682Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://calldirectorai.github.io/sew-essentials-home/classes/</loc>
     <lastmod>2026-10-02T05:26:10.984Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -43,11 +48,6 @@
   <url>
     <loc>https://calldirectorai.github.io/sew-essentials-home/faq/</loc>
     <lastmod>2026-10-02T04:44:56.297Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://calldirectorai.github.io/sew-essentials-home/contact/</loc>
-    <lastmod>2026-10-02T04:44:50.459Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
