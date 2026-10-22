@@ -1,53 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://calldirectorai.github.io/sew-essentials-home/schedule/</loc>
-    <lastmod>2026-10-02T05:38:05.601Z</lastmod>
+    <loc>https://sewessentials.com/</loc>
+    <lastmod>2026-10-22T01:43:56.551Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://calldirectorai.github.io/sew-essentials-home/workshops/</loc>
+    <loc>https://sewessentials.com/schedule/</loc>
+    <lastmod>2026-10-21T20:05:48.104Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://sewessentials.com/workshops/</loc>
     <lastmod>2026-10-02T05:26:41.223Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://calldirectorai.github.io/sew-essentials-home/gallery/</loc>
+    <loc>https://sewessentials.com/gallery/</loc>
     <lastmod>2026-10-02T05:26:28.490Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://calldirectorai.github.io/sew-essentials-home/faq/</loc>
+    <loc>https://sewessentials.com/faq/</loc>
     <lastmod>2026-10-02T05:26:22.421Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://calldirectorai.github.io/sew-essentials-home/contact/</loc>
+    <loc>https://sewessentials.com/contact/</loc>
     <lastmod>2026-10-02T05:26:16.682Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://calldirectorai.github.io/sew-essentials-home/classes/</loc>
+    <loc>https://sewessentials.com/classes/</loc>
     <lastmod>2026-10-02T05:26:10.984Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://calldirectorai.github.io/sew-essentials-home/birthday-party/</loc>
+    <loc>https://sewessentials.com/birthday-party/</loc>
     <lastmod>2026-10-02T05:26:04.868Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://calldirectorai.github.io/sew-essentials-home/alterations/</loc>
+    <loc>https://sewessentials.com/alterations/</loc>
     <lastmod>2026-10-02T05:25:58.926Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://calldirectorai.github.io/sew-essentials-home/about/</loc>
+    <loc>https://sewessentials.com/about/</loc>
     <lastmod>2026-10-02T05:25:53.409Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://calldirectorai.github.io/sew-essentials-home/</loc>
-    <lastmod>2026-10-02T05:25:47.284Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
