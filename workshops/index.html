@@ -351,5 +351,8 @@
 <div class="callbar"><a class="btn out" href="tel:+12406980342">Call us</a><a class="btn" href="../classes/#request">Request a spot</a></div>
 <script>(function(){var b=document.getElementById('bg'),n=document.getElementById('nv');b.addEventListener('click',function(){var o=n.classList.toggle('open');b.setAttribute('aria-expanded',o)});document.addEventListener('keydown',function(e){if(e.key==='Escape'&&n.classList.contains('open')){n.classList.remove('open');b.setAttribute('aria-expanded','false');b.focus()}})})();</script>
 <script src="https://app.calldirector.ai/widget.js" data-widget="52179865" async></script>
+
+<div id="gb" role="status" aria-live="polite">Not sure which class fits? Ask me here.<button type="button" aria-label="Dismiss" id="gb-x">&times;</button></div>
+<script>(function(){var b=document.getElementById('gb');if(!b)return;var t2;function hide(){b.classList.remove('on')}document.getElementById('gb-x').onclick=function(){hide();clearTimeout(t2)};setTimeout(function(){b.classList.add('on');t2=setTimeout(hide,15000)},2500)})();</script>
 </body>
 </html>
