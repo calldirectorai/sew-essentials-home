@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sewessentials.com/about/</loc>
+    <lastmod>2026-10-22T14:30:55.673Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://sewessentials.com/</loc>
     <lastmod>2026-10-22T14:30:48.149Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -18,11 +23,6 @@
   <url>
     <loc>https://sewessentials.com/faq/</loc>
     <lastmod>2026-10-22T14:30:34.611Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://sewessentials.com/about/</loc>
-    <lastmod>2026-10-22T14:30:29.836Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
