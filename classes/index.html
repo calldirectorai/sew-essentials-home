@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
+<link rel="canonical" href="https://sewessentials.com/classes/">
 
 
 
@@ -229,7 +230,7 @@
       overlay.style.cssText='position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,0.5);display:flex;align-items:center;justify-content:center;z-index:999999;font-family:system-ui,-apple-system,sans-serif;';
       function esc(s){return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
       var subTxt=successSubtext||('Thank you for purchasing '+pName+'.');
-      overlay.innerHTML='<div style="background:white;border-radius:16px;padding:40px;max-width:420px;width:90%;text-align:center;box-shadow:0 20px 60px rgba(0,0,0,0.15);"><div style="width:64px;height:64px;border-radius:50%;background:#dcfce7;margin:0 auto 20px;display:flex;align-items:center;justify-content:center;"><svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="3"><polyline points="20 6 9 17 4 12"/></svg></div><h2 style="margin:0 0 12px;font-size:24px;font-weight:700;color:#111827;">Payment Successful!</h2><p style="margin:0 0 24px;color:#6b7280;font-size:16px;">'+esc(subTxt)+'</p><button id="lp-pay-success-btn" style="padding:12px 32px;font-size:16px;font-weight:600;background:'+successBtnColor+';color:white;border:none;border-radius:8px;cursor:pointer;">'+esc(successBtnLabel)+'</button></div>';
+      overlay.innerHTML='<div style="background:white;border-radius:16px;padding:40px;max-width:420px;width:90%;text-align:center;box-shadow:0 20px 60px rgba(0,0,0,0.15);"><div style="width:64px;height:64px;border-radius:50%;background:#dcfce7;background:color-mix(in srgb,'+successBtnColor+' 12%,white);margin:0 auto 20px;display:flex;align-items:center;justify-content:center;"><svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="'+successBtnColor+'" stroke-width="3"><polyline points="20 6 9 17 4 12"/></svg></div><h2 style="margin:0 0 12px;font-size:24px;font-weight:700;color:#111827;">Payment Successful!</h2><p style="margin:0 0 24px;color:#6b7280;font-size:16px;">'+esc(subTxt)+'</p><button id="lp-pay-success-btn" style="padding:12px 32px;font-size:16px;font-weight:600;background:'+successBtnColor+';color:white;border:none;border-radius:8px;cursor:pointer;">'+esc(successBtnLabel)+'</button></div>';
       document.body.appendChild(overlay);
       var pBtn=document.getElementById('lp-pay-success-btn');
       if(pBtn){pBtn.addEventListener('click',function(){if(successRedirect){window.location.href=successRedirect;}else{overlay.remove();window.history.replaceState({},'',window.location.pathname);}});}
@@ -306,7 +307,7 @@
       overlay.style.cssText='position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,0.5);display:flex;align-items:center;justify-content:center;z-index:999999;font-family:system-ui,-apple-system,sans-serif;';
       function esc(s){return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
       var subTxt=successSubtext||'Thank you for your order.';
-      overlay.innerHTML='<div style="background:white;border-radius:16px;padding:40px;max-width:420px;width:90%;text-align:center;box-shadow:0 20px 60px rgba(0,0,0,0.15);"><div style="width:64px;height:64px;border-radius:50%;background:#dcfce7;margin:0 auto 20px;display:flex;align-items:center;justify-content:center;"><svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#16a34a" stroke-width="3"><polyline points="20 6 9 17 4 12"/></svg></div><h2 style="margin:0 0 12px;font-size:24px;font-weight:700;color:#111827;">Order Confirmed!</h2><p style="margin:0 0 24px;color:#6b7280;font-size:16px;">'+esc(subTxt)+'</p><button id="lp-cart-success-btn" style="padding:12px 32px;font-size:16px;font-weight:600;background:'+successBtnColor+';color:white;border:none;border-radius:8px;cursor:pointer;">'+esc(successBtnLabel)+'</button></div>';
+      overlay.innerHTML='<div style="background:white;border-radius:16px;padding:40px;max-width:420px;width:90%;text-align:center;box-shadow:0 20px 60px rgba(0,0,0,0.15);"><div style="width:64px;height:64px;border-radius:50%;background:#dcfce7;background:color-mix(in srgb,'+successBtnColor+' 12%,white);margin:0 auto 20px;display:flex;align-items:center;justify-content:center;"><svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="'+successBtnColor+'" stroke-width="3"><polyline points="20 6 9 17 4 12"/></svg></div><h2 style="margin:0 0 12px;font-size:24px;font-weight:700;color:#111827;">Order Confirmed!</h2><p style="margin:0 0 24px;color:#6b7280;font-size:16px;">'+esc(subTxt)+'</p><button id="lp-cart-success-btn" style="padding:12px 32px;font-size:16px;font-weight:600;background:'+successBtnColor+';color:white;border:none;border-radius:8px;cursor:pointer;">'+esc(successBtnLabel)+'</button></div>';
       document.body.appendChild(overlay);
       var cBtn=document.getElementById('lp-cart-success-btn');
       if(cBtn){cBtn.addEventListener('click',function(){if(successRedirect){window.location.href=successRedirect;}else{overlay.remove();window.history.replaceState({},'',window.location.pathname);}});}
@@ -319,7 +320,7 @@
 <body>
 <a class="skip" href="#main">Skip to content</a>
 <header><div class="w bar">
-<a class="brand" href="../" aria-label="Sew Essentials home"><img src="https://app.calldirector.ai/objects/quick-uploads/1683/cfcedbaa82fd0b3d.jpg" alt="" width="44" height="44"><span><b>Sew Essentials</b><small>The Sewing Spot</small></span></a>
+<a class="brand" href="../" aria-label="Sew Essentials, The Sewing Spot, home"><img src="https://app.calldirector.ai/objects/quick-uploads/1683/cfcedbaa82fd0b3d.jpg" alt="" width="44" height="44"><span><b>Sew Essentials</b><small>The Sewing Spot</small></span></a>
 <button class="burger" id="bg" aria-expanded="false" aria-controls="nv" aria-label="Menu">&#9776;</button>
 <nav id="nv" aria-label="Primary"><a href="../classes/" aria-current="page">Classes</a><a href="../schedule/">Schedule</a><a href="../workshops/">Workshops</a><a href="../birthday-party/">Parties</a><a href="../alterations/">Alterations</a><a href="../gallery/">Gallery</a><a href="../about/">About</a><a href="../faq/">FAQ</a><a href="../contact/">Contact</a><a class="btn sm" style="margin-left:8px;border-bottom:2px solid var(--o)" href="../classes/#request">Register Now</a></nav>
 </div></header>
@@ -335,7 +336,7 @@
 <section id="request" style="scroll-margin-top:90px"><div class="w" style="max-width:820px"><span class="eyebrow">Request a spot</span><h2>Tell us what you&rsquo;d like to learn.</h2><p class="lead">Send your request and we will follow up to help you pick a class. Registration is complete once the studio confirms and class fees are paid.</p><div class="formbox" id="fx">
 <button type="button" class="btn" id="fx-open" aria-expanded="false" aria-controls="fx-panel">Request a spot</button>
 <p id="fx-note" class="fine" role="status" aria-live="polite" hidden></p>
-<div id="fx-panel" hidden><div id="fx-host"></div><p class="fine">We use your details only to respond to your request. We never sell them.</p></div>
+<div id="fx-panel" hidden><div id="fx-host"></div><p class="fine">We use your details only to respond to your request. We never sell them. See our <a href="../privacy/">Privacy Policy</a>. Text messages are optional; msg &amp; data rates may apply, reply STOP to opt out (<a href="../sms-terms/">SMS Terms</a>).</p></div>
 </div>
 <script>
 (function(){
@@ -365,7 +366,7 @@ window.addEventListener('paymegpt-form:submitted',function(){timers.push(setTime
 <div><h3>Visit</h3><p>3532 Urbana Pike, Suite F, Urbana, MD 21704</p><p><a href="https://www.google.com/maps/search/?api=1&query=3532+Urbana+Pike+Suite+F+Urbana+MD+21704" rel="noopener">Get directions</a></p></div>
 <div><h3>Office hours</h3><p>Mon&ndash;Fri: 10:30am&ndash;7:00pm<br>Saturday: 10:00am&ndash;4:00pm<br>Sunday: closed</p><p><a href="tel:+12406980342">240-698-0342</a><br><a href="mailto:info@sewessentials.com">info@sewessentials.com</a></p></div>
 </div>
-<div class="legal">&copy; 2026 Sew Essentials. All rights reserved.</div>
+<div class="legal">&copy; 2026 Sew Essentials. All rights reserved. &middot; <a href="../privacy/">Privacy Policy</a> &middot; <a href="../sms-terms/">SMS Terms</a></div>
 <div style="font-size:.82rem;color:#bbb;margin-top:10px"> <svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true" focusable="false" style="width:16px;height:16px;vertical-align:middle;display:inline-block;margin-right:6px"><defs><linearGradient id="cdai-grad" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#7C3AED"/><stop offset="100%" stop-color="#6D28D9"/></linearGradient></defs><rect x="1" y="5" width="2" height="10" rx="1" fill="url(#cdai-grad)"/><rect x="4.5" y="2" width="2" height="13" rx="1" fill="url(#cdai-grad)"/><rect x="8" y="7" width="2" height="8" rx="1" fill="url(#cdai-grad)"/><rect x="11.5" y="4" width="2" height="11" rx="1" fill="url(#cdai-grad)"/><rect x="14" y="6" width="1" height="9" rx=".5" fill="url(#cdai-grad)"/></svg>Website &amp; AI assistant by <a href="https://calldirector.ai" target="_blank" rel="noopener" style="color:#fff">CallDirector AI</a></div>
 </div></footer>
 <div class="callbar"><a class="btn out" href="tel:+12406980342">Call us</a><a class="btn" href="../classes/#request">Request a spot</a></div>
