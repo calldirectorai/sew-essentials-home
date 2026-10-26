@@ -1,13 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sewessentials.com/schedule/</loc>
-    <lastmod>2026-10-26T15:33:28.158Z</lastmod>
+    <loc>https://sewessentials.com/</loc>
+    <lastmod>2026-10-26T15:37:04.284Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://sewessentials.com/</loc>
-    <lastmod>2026-10-26T15:33:09.436Z</lastmod>
+    <loc>https://sewessentials.com/schedule/</loc>
+    <lastmod>2026-10-26T15:36:21.963Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://sewessentials.com/faq/</loc>
+    <lastmod>2026-10-26T15:36:21.633Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://sewessentials.com/about/</loc>
+    <lastmod>2026-10-26T15:36:21.313Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://sewessentials.com/gallery/</loc>
+    <lastmod>2026-10-26T15:36:20.980Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://sewessentials.com/workshops/</loc>
+    <lastmod>2026-10-26T15:36:20.400Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://sewessentials.com/birthday-party/</loc>
+    <lastmod>2026-10-26T15:36:19.960Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://sewessentials.com/alterations/</loc>
+    <lastmod>2026-10-26T15:36:19.505Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://sewessentials.com/contact/</loc>
+    <lastmod>2026-10-26T15:36:18.877Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://sewessentials.com/classes/</loc>
+    <lastmod>2026-10-26T15:36:18.512Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -18,46 +58,6 @@
   <url>
     <loc>https://sewessentials.com/privacy/</loc>
     <lastmod>2026-10-26T15:25:34.807Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://sewessentials.com/workshops/</loc>
-    <lastmod>2026-10-22T14:32:00.830Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://sewessentials.com/gallery/</loc>
-    <lastmod>2026-10-22T14:31:44.129Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://sewessentials.com/faq/</loc>
-    <lastmod>2026-10-22T14:31:35.703Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://sewessentials.com/contact/</loc>
-    <lastmod>2026-10-22T14:31:27.924Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://sewessentials.com/classes/</loc>
-    <lastmod>2026-10-22T14:31:19.887Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://sewessentials.com/birthday-party/</loc>
-    <lastmod>2026-10-22T14:31:11.556Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://sewessentials.com/alterations/</loc>
-    <lastmod>2026-10-22T14:31:04.296Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://sewessentials.com/about/</loc>
-    <lastmod>2026-10-22T14:30:55.673Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
