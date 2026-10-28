@@ -1,23 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sewessentials.com/schedule/</loc>
+    <lastmod>2026-10-28T13:35:47.410Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://sewessentials.com/classes/</loc>
+    <lastmod>2026-10-28T13:33:59.218Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://sewessentials.com/workshops/</loc>
+    <lastmod>2026-10-28T13:30:03.482Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://sewessentials.com/about-us/</loc>
     <lastmod>2026-10-26T15:39:40.747Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://sewessentials.com/workshops/</loc>
-    <lastmod>2026-10-26T15:38:37.952Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
     <loc>https://sewessentials.com/sms-terms/</loc>
     <lastmod>2026-10-26T15:38:28.937Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://sewessentials.com/schedule/</loc>
-    <lastmod>2026-10-26T15:38:19.034Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -38,11 +43,6 @@
   <url>
     <loc>https://sewessentials.com/contact/</loc>
     <lastmod>2026-10-26T15:37:45.825Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://sewessentials.com/classes/</loc>
-    <lastmod>2026-10-26T15:37:37.649Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
